@@ -11,6 +11,6 @@ I'm a **Solo Developer** that likes creating games, clean web experiences, and m
 * **Tools:** VS Code
 
 ### 📈 What I'm working on
-- [ x ] Improving my C# architecture
-- [ x ] Building new games
-- [ x ] Refining my web design skills
+- [x] Improving my C# architecture
+- [x] Building new games
+- [x] Refining my web design skills
