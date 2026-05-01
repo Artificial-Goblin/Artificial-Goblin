@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, Welcome to Artificial Goblin! 🧌👋
 
-<!--
-**Artificial-Goblin/Artificial-Goblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Solo Developer** that likes creating games, clean web experiences, and much more!.
 
-Here are some ideas to get you started:
+### 🕹️ My Games
+[![Itch.io](https://img.shields.io/badge/Play_my_games_on-Itch.io-ff0b34?style=for-the-badge&logo=itch.io&logoColor=white)](https://artificial-goblin.itch.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+* **Game Dev:** Unity, C#, Game Design, Scripting
+* **Web Dev:** HTML5, CSS3, Web Design
+* **Tools:** VS Code
+
+### 📈 What I'm working on
+- [ ] Improving my C# architecture
+- [ ] Building new games
+- [ ] Refining my web design skills
