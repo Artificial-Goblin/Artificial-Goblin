@@ -1,4 +1,4 @@
-# Hi, Welcome to Artificial Goblin! 👋
+# Hi, Welcome to Artificial Goblin! 🧌👋
 
 I'm a **Solo Developer** that likes creating games, clean web experiences, and much more.
 
